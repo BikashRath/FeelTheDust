@@ -1,0 +1,135 @@
+body {
+	background-image: url("/thedust/image/background/funky.jpg");
+}
+
+.header {
+	height:7rem;
+	background-color: black;
+	position:fixed;
+	width: 100%;
+	top: 0;
+	left: 0;
+	color: white;
+}
+
+.header a {
+	color: white;
+	text-decoration: none;
+}
+
+.header a.highlight {
+	background: gray;
+	border-radius: 5px;
+}
+
+.header .logo {
+	width: 32%;
+	height: 80%;
+	background-color: black;
+	float: left;
+	padding-left: 10.05rem;
+	margin-top: 1rem;
+	font-size: 50;
+	font-style: italic;
+}
+
+.header .menu {
+	position: relative;
+	float: right;
+	padding-right: 10rem;
+}
+
+.header .menu ul {
+	padding-top: 2rem;
+}
+
+.header .menu ul li {
+	width: 5rem;
+	float: left;
+}
+
+.content {
+	width : 100%;
+	overflow: auto;
+	position: fixed;
+	top: 7rem;
+	bottom: 3rem;
+	left: 0;
+	font-family: play, din_mediumregular;
+	font-size: 14px;
+	line-height: 26.600000381469727px;
+	color: white;
+}
+
+.displaywithbg {
+	background-color: black;
+	opacity: 0.8;
+}
+
+.content .content-data {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	width: 65%;
+}
+
+.content .content-data .left {
+	float: left;
+	width: 45%;
+}
+
+.content .content-data .right {
+	width: 50%;
+	float: left;
+	padding-left: 2rem;
+}
+.footer {
+	height:3rem;
+	background-color: black;
+	position:fixed;
+	width: 100%;
+	bottom: 0;
+	left: 0;
+}
+
+.content .orbit-wrapper {
+	margin: auto;
+}
+
+
+
+.horizontal-container {
+	margin: auto;
+	width: 1120;
+}
+.horizontal-container .item {
+	float: left;
+	overflow: hidden;
+}
+
+.horizontal-container .item-2 {
+	width: 50%;
+}
+
+.horizontal-container .item-3 {
+	width: 33%;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.heading-2 {
+	text-align: center;
+	font-weight: 900;
+	margin: 1rem 0;
+	font-size: 1.5rem;
+}
+
+.heading-1 {
+	text-align: center;
+	font-weight: 900;
+	margin: 1rem 0;
+	font-size: 1rem;
+}
