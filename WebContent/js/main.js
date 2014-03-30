@@ -22,7 +22,6 @@ $(document).on('click', '#aboutus', function () {
 		type: 'GET'
 	}).success(function(response){
 		$('.primary-content-panel .content').empty().append($(response));
-		$('.primary-content-panel .content').addClass("displaywithbg");
 	}).fail(function(){
 		console.log('failure');
 	});
@@ -35,7 +34,6 @@ $(document).on('click', '#events', function () {
 		type: 'GET'
 	}).success(function(response){
 		$('.primary-content-panel .content').empty().append($(response));
-		$('.primary-content-panel .content').addClass("displaywithbg");
 	}).fail(function(){
 		console.log('failure');
 	});
@@ -48,7 +46,6 @@ $(document).on('click', '#register', function () {
 		type: 'GET'
 	}).success(function(response){
 		$('.primary-content-panel .content').empty().append($(response));
-		$('.primary-content-panel .content').addClass("displaywithbg");
 	}).fail(function(){
 		console.log('failure');
 	});
@@ -61,7 +58,6 @@ $(document).on('click', '#gallery', function () {
 		type: 'GET'
 	}).success(function(response){
 		$('.primary-content-panel .content').empty().append($(response));
-		$('.primary-content-panel .content').addClass("displaywithbg");
 	}).fail(function(){
 		console.log('failure');
 	});
@@ -74,7 +70,6 @@ $(document).on('click', '#contactus', function () {
 		type: 'GET'
 	}).success(function(response){
 		$('.primary-content-panel .content').empty().append($(response));
-		$('.primary-content-panel .content').addClass("displaywithbg");
 	}).fail(function(){
 		console.log('failure');
 	});

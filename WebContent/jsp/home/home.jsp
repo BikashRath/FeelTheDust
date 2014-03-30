@@ -1,9 +1,10 @@
 	<div id="slideimage">
-		<img src="/thedust/image/slide/1.jpg" width="1120" height="300" name="slide" />
-		<img src="/thedust/image/slide/2.jpg" width="1120" height="300" name="slide" />
-		<img src="/thedust/image/slide/3.jpg" width="1120" height="300" name="slide" />
+		<img src="/thedust/image/slide/1.jpg" width="1024" height="300" name="slide" />
+		<img src="/thedust/image/slide/2.jpg" width="1024" height="300" name="slide" />
+		<img src="/thedust/image/slide/3.jpg" width="1024" height="300" name="slide" />
+		<img src="/thedust/image/slide/4.jpg" width="1024" height="300" name="slide" />
 	</div>
-	<div style="width: 1120px; margin: auto;" class="displaywithbg">
+	<div style="width: 1024px; margin: auto;" class="displaywithbg">
 		<div style="display:inline-block; width: 100%">
 		<div class="horizontal-container">
 			<div class="item item-2 text-center">
