@@ -1,5 +1,5 @@
 <nav class="header">
-			<div class="logo"><img src="/thedust/image/logos/logomain.png"/>Feel the Dust</div>
+			<div class="logo"><img src="/thedust/image/logos/logomain.png"/><span>Feel the Dust</span></div>
 			<div class="menu">
 				<ul>
 					<li>

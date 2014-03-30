@@ -33,6 +33,17 @@ body {
 	font-style: italic;
 }
 
+.header .logo img {
+	float: left;
+}
+
+.header .logo span {
+	position: relative;
+	margin: 1rem;
+	top: 0.5rem;
+	
+}
+
 .header .menu {
 	position: relative;
 	float: right;
